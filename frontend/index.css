@@ -1,3 +1,20 @@
 h1{
-    color: yellowgreen;
+    color: red;
+}
+
+#home-intro{
+    text-align:center;
+
+    border:3px;
+    border-color: black;
+     border-style:solid;
+}
+
+#home-intro:hover{
+    background-color:brown;
+}
+
+
+#p2{
+    color: blue;
 }
