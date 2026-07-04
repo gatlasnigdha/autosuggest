@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+
+.setting{
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    size: 25px;
+}
+.online{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+.main{
+    text-align:center;
+}
+.being{
+    color:blue;
+}
+.infinity{
+    color:black;
+}
+.lens{
+position:relative;
+left: 20px;
+}
+.search{
+    padding:15px 15px 15px 45px;
+    border-radius:30px;
+    width:30%;
+}
+#suggest-box{
+    border:1px solid black;
+    margin 0px auto;
+    width: 40%;
+    posiyion relative;
+    left:8px;
+    height:250px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+}
