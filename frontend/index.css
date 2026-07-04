@@ -31,3 +31,87 @@ h1{
     text-decoration: none;
     color: white;
 }
+h1 {
+  color: red;
+}
+
+/* property : value */
+
+#home-intro {
+  text-align: center;
+  border: 3px solid blue;
+}
+
+#home-intro:hover {
+  background-color: burlywood;
+}
+
+#p2 {
+  color: blue;
+}
+
+#nav {
+  text-align: center;
+  background-color: brown;
+  height: 25px;
+  padding-top: 5px;
+  margin-bottom: 5px;
+}
+
+#nav a {
+  margin: 0px 5px;
+  text-decoration: none;
+  color: white;
+}
+
+/* Jane Doe Card */
+
+#card {
+  align-items: center;
+  margin-top: 5px;
+  border:3px solid black;
+  width: 300px;
+  height: 580px;
+  margin: 3px auto;
+
+}
+
+#card-img {
+  width: 300px;
+  height: 300px;    
+  margin: 0px auto;
+}
+
+#img {
+  width: 300px;
+  height: 300px;
+}
+
+#action {
+  text-align: center;
+}
+
+/* John Doe Card */
+
+#card2 {
+  align-items: center;
+  margin-top: 20px;
+}
+
+#card-img2 {
+  width: 300px;
+  height: 300px;
+  margin: 0px auto;
+}
+
+#img2 {
+  width: 300px;
+  height: 300px;
+}
+
+#action2 {
+  text-align: center;
+}
+button {
+    width:100%;
+}
