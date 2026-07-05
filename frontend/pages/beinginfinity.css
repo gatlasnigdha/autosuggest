@@ -33,11 +33,25 @@ left: 20px;
 }
 #suggest-box{
     border:1px solid black;
-    margin 0px auto;
-    width: 40%;
-    posiyion relative;
-    left:8px;
-    height:250px;
+    margin:3px auto;
+    width: 35%;
+    position:relative;
+    left: 10px;
+    right:5px;
+    height:40px;
     border-top-left-radius:10px;
     border-top-right-radius:10px;
+    margin-top:5px;
+}
+.suggest-text{
+    padding:5px;
+    border-bottom:1px solid #ddd;
+    cursor:pointer;
+    text-align:left;
+}
+.suggest-text:last-child{
+border-bottom:none;
+}
+.suggest-text:hover{
+    background-color:#f2f2f2;
 }
